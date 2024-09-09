@@ -1,5 +1,6 @@
 # Web Scraper
 
+
 Web Scraper makes it effortless to scrape websites. You provide a URL and CSS selector and it will return you JSON containing the text contents of the matching elements. You can also scrape HTML attribute values by optionally specifying an attribute name.
 
 [Website →](https://web.scraper.workers.dev)
